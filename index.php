@@ -54,4 +54,15 @@ using &lt;?php include(&quot;afilename.inc&quot;); ?&gt;<font SIZE="1" COLOR="#0
 
 <p align="center">You can <a href="demo-code.zip">download the free zip here</a> which contains all the pages.
 </p>
+
+<!-- Nieuwe code -->
+
+<hr />
+<h2>Angular</h2>
+<p>Nieuwe info over Angular blabla hier te vinden. </p>
+<br />
+<h2>ASP</h2>
+<p>Nieuwe informatie over ASP. fijne programmeertaal maar moeilijk te begrijpen</p>
+<hr />
+
 <?php include("footer.inc"); ?>
